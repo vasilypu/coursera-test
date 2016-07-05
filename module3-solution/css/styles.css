@@ -3,9 +3,12 @@
 }
 
 .myrow {
+    margin: auto;
+    border: solid white 10px;
     background-color: #cccccc;
 
 }
 .mya{
+
     background-color: white;
 }
